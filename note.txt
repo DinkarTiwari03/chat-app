@@ -1,0 +1,7 @@
+day 1: 
+ - installation and routing by api
+ - made the api
+ - did till 19:46
+
+ day 2:
+  
